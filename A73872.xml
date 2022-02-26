@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation brought by the Lord of Buisson, and sent by the French King concerning the defeat of the Lord Soubizes army, his Maiestie being there in person. With The surprising of the castle of Chaume about the sands of Psonne the 18. of this present month of Aprill. 1622</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73872</idno>
+            <idno type="STC">STC 7268.5</idno>
+            <idno type="STC">ESTC S125215</idno>
+            <idno type="EEBO-CITATION">99898475</idno>
+            <idno type="PROQUEST">99898475</idno>
+            <idno type="VID">173394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2040:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation brought by the Lord of Buisson, and sent by the French King concerning the defeat of the Lord Soubizes army, his Maiestie being there in person. With The surprising of the castle of Chaume about the sands of Psonne the 18. of this present month of Aprill. 1622</title>
+               </titleStmt>
+               <extent>[2], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Fredericke Morel the Kings ordinarie printer, by authority, and now orderly translated,</publisher>
+                  <pubPlace>Printed at Paris :</pubPlace>
+                  <date>[1622]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page is A2.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>[Du Buisson, --  Sieur, fl. 1622] --  Early works to 1800.</term>
+               <term>Battles --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173394:1"/>
+            <!-- PDF PAGE 43 -->
+            <p>A TRVE RELATION BROVGHT BY THE Lord of <hi>Buiſſon,</hi> and ſent by the French King concerning the defeat of the Lord <hi>Soubizes</hi> army, his Maieſtie <hi>being there in perſon.</hi>
+            </p>
+            <p>
+               <hi>With</hi> THE SVRPRISING OF THE Caſtle of <hi>Chaume</hi> about the ſands of <hi>Pſonne</hi> the 18. of this preſent month of Aprill. 1622.</p>
+            <p>
+               <hi>Printed at Paris,</hi> By <hi>Fredericke Morel</hi> the Kings ordinarie Printer, by authority, and now order<g ref="char:EOLhyphen"/>ly tranſlated.</p>
+         </div>
+      </front>
+      <body>
+         <div type="historical_account">
+            <pb facs="tcp:173394:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb facs="tcp:173394:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>THE SVRPRI<g ref="char:EOLhyphen"/>SING OF MONSIEVR <hi>Soubizes</hi> army, and the taking of the caſtle of <hi>Chaume,</hi> the King being in the <hi>field in perſon.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE King being departed from <hi>Nantes</hi> the twelfth of Aprill, deter<g ref="char:EOLhyphen"/>mined to lodge the ſame night at a place called <hi>Vielle-Vigne,</hi> diſtant fiue leagues from the ſame towne: the next day his Maieſtie remoued three leagues neerer his enemies. The 14. day hee appointed the generall <hi>Rendezuous</hi> for his whole Army betweene <hi>Aſpremont</hi> and <hi>Com<g ref="char:EOLhyphen"/>minquiers,</hi> befitting places for ſuch a purpoſe, ſen<g ref="char:EOLhyphen"/>ding to the Count <hi>de la Roch-foucalt</hi> to bring thither his forces alſo, and ſo vnite them with his Maieſties: but when his Maieſtie was aduertiſed that the Lord <hi>de Soubize</hi> was retired with his troopes or army to<g ref="char:EOLhyphen"/>ward the <hi>Rendezuous</hi> of <hi>Aſpremont,</hi> conſiſting of fiue or ſixe thouſand foote, fiue hundred horſe, three peeces of great Artillerie, and foure field peeces of iron, he aduanced forward with a full reſoluti<g ref="char:EOLhyphen"/>on, and ardent deſire to fight with him, and ſo came to a village called <hi>Chalans:</hi> here he was aduiſed by my Lord the Prince of <hi>Conde,</hi> that ſeeing he had ſent for the forces of the Count <hi>de la Roch-foucalt</hi> to ioyne
+<pb n="2" facs="tcp:173394:3"/>
+               <!-- PDF PAGE 45 -->with his troopes, it were not amiſſe to attend the good houre of their comming together. For the Lord <hi>Soubize</hi> and his armie was lodged within an I<g ref="char:EOLhyphen"/>land called <hi>Rye,</hi> very difficult for acceſſe, and very dangerous to ſurprize, as hauing onely three or foure ſtreight paſſages for conduction, wherein two or three men could but march in front.</p>
+            <p>The fifteenth day of the ſaid month, the King was mounted by three of the clocke in the morning, and with his whole troopes, ſet forward to the place, where Count <hi>de la Roch-Foucalt,</hi> and all his forces attended the Kings appoyntment, with whoſe pio<g ref="char:EOLhyphen"/>ners and ſouldiers, in his owne preſence, hee raiſed three ſeuerall forts or skonces neare the ſayd Iland, and neare the place where the enemy played moſt with the cannon and defended themſelues.</p>
+            <p>But his Maieſtie all on fire, and reſolued to goe forward in his enterpriſe, not regarding what the cannon could doe, and leſſe caring what the enemy durſt attempt, ſent my Lord the Prince of <hi>Conde,</hi> with all the remainder of the Infantery on foote, and ſome men of armes to enter vpon the ſaid Iland: but you muſt conſider, that his Maieſtie had firſt ap<g ref="char:EOLhyphen"/>poynted the Lord Marſhall de <hi>Vitry,</hi> with the Re<g ref="char:EOLhyphen"/>giment of his guard to take poſſeſſion of the place; with whom were accomdanyed the Lordes <hi>Z<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>met,</hi> and de <hi>Murillac</hi> Marſhalls of the Campe, who ſtill kept neare the ſayd Marſhall de <hi>Vitry,</hi> vntill hee had entred the Iland, and taken vp his lodging: then did they quarter themſelues. Shortly after, as you haue heard, came Monſieur Prince de <hi>Praſlin,</hi> with <hi>Baſſompierre</hi> the firſt Marſhall of the field, whoſe
+<pb n="3" facs="tcp:173394:3"/>
+               <!-- PDF PAGE 45 -->authority and endeuours brought all the reſt of the horſe to ioyne with the ſayd Regiment of the guard, who only were firſt lodged within the Iland: where<g ref="char:EOLhyphen"/>upon they prepared themſelues readily and with all diligence, to obey their Commanders, but could not doe it ſo ſoone, but they were diſcouered by the enemy, who ſent out foure hundred horſe to ſet vp<g ref="char:EOLhyphen"/>pon the Prince of <hi>Condes</hi> forces before the army of the King could approach, and vnite themſelues: which when the Prince of <hi>Conde</hi> perceiued, and ap<g ref="char:EOLhyphen"/>prehended, that they were reſolute to fight, he reti<g ref="char:EOLhyphen"/>red himſelfe a little, and ſent with all ſpeede to ad<g ref="char:EOLhyphen"/>uertiſe his Maieſtie what had chanced, and that, if it pleaſed him, hee might now aduance forward with the reſt of his army into the Iland; which the King preſently and nobly accompliſhed, comming to the place where my Lord the Prince was, and ſo the reſt in a manner as ſoone followed, where his Maieſtie was.</p>
+            <p>This performed, hee tooke preſent order for two ſpeciall things: the one was to ſupply the wants of the ſouldiers with bread; for they had faſted long, and ſo all that were neare his perſon had a Donatiue out of his owne ſtore, or if you will, his principall Baker, and the reſt had a gratuity from other places: the other was to quarter the horſe within the Towne of S. <hi>Iohn de Mons,</hi> ſome halfe a mile from thence, wherein hee vſed ſuch iudgement and prouidence, that he preuented many miſchiefes. For he preſently ſent to the Count <hi>de la Roche-foucalt,</hi> to abandon one part of his quarter, which the ſame day hee had taken poſſeſſion of in the preſence of his Maieſty, and
+<pb n="4" facs="tcp:173394:4"/>
+               <!-- PDF PAGE 46 -->retire to the Towne of Saint <hi>Giles,</hi> making vſe of the ſame for the better refreſhing of his wearied troupes, letting the enemy alone vntill better op<g ref="char:EOLhyphen"/>portunity. But as this was a doing, the skowtes aduertiſed his Maieſtie, that the enemy prepared themſelues to retire to ſome better ſecurity by the Sea; which when the Tide went out, they might well doe, through Foords and Waſhes: But the King vnderſtanding hereof, ſent fiue hundred of the Regiment <hi>de la Bergerie,</hi> vnder the commaund of Captaine <hi>d'Eſcars,</hi> to guarde the places and paſ<g ref="char:EOLhyphen"/>ſages.</p>
+            <p>Now you muſt conſider, that his Maieiſte had endured a tedious trauell, and a kinde of a penance: For he was on horſebacke, from three of the clocke in the morning, to ſixe at night, and neuer diſmoun<g ref="char:EOLhyphen"/>ted, by reaſon hee was to paſſe ouer a little Creeke of the Sea, which he could not doe, but at a lowe water, nor was then to be done, vntill hed had his forces together, and thus he was enforced to watch for the Tide, which was not lowe enough till nine of the clocke at night, at which time the foote had a <hi>Rendezuous</hi> appoynted, and a watch-word to attend, and the horſe might eaſily finde a way through the Foords and knowne Waſhes of the place. But when it was conſidered, that the paſſage for the foote was a quarter of a league from the Foordes of the horſe, and that the King, euen in the middeſt of his iourny ſtanding deepe in the water, had notice, that the foote could not yet goe ouer, as hauing the Sea vp to their neckes, he was aduiſed by many not to make too much haſte, nor paſſe with his horſe alone, leſt
+<pb n="5" facs="tcp:173394:4"/>
+               <!-- PDF PAGE 46 -->the enemy might take aduantage of the ſame, and ſet vpon him not fully prouided.</p>
+            <p>Neuertheleſſe his vndanted Maieſty, vniting toge<g ref="char:EOLhyphen"/>ther his reſolution with the generoſity of his ſpirit, &amp; ſcorning to giue way vnto any difficulties in a buſi<g ref="char:EOLhyphen"/>neſſe of ſuch importance, wherein a Princes word was engaged, commaunded forward, and finding the night to be very darke and obſcure, welcommend the opportunity, and all alone with his horſe ouer<g ref="char:EOLhyphen"/>came the difficulty being fiue hundred with the <hi>Vo<g ref="char:EOLhyphen"/>luntiers,</hi> and others, and no more. For you muſt know, he had left three hundred horſe and fifty <hi>Cara<g ref="char:EOLhyphen"/>bines</hi> with Count <hi>de la Roche-foucalt,</hi> to guarde the reare, and defend the carriages.</p>
+            <p>By this time was the houre approached that the foote might paſſe, who when they had founded the channels, quickely aduentured their perſons, and made ſuch diligence and ſpeede that they paſſed o<g ref="char:EOLhyphen"/>uer in good order. For the Lords <hi>de Baſſompierre,</hi> and <hi>de Palſuna Frontenac</hi> Maſter of the Campe with the Regiment of <hi>Nauarre</hi> had the <hi>Van</hi> in this buſi<g ref="char:EOLhyphen"/>neſſe, and vſed the diſcipline of Silence, Patience, Trauell and Obedience: then followed the Regi<g ref="char:EOLhyphen"/>ments of the <hi>Gurde,</hi> and <hi>Normandy,</hi> and when they found the water but vp to the girdle-ſted, it was a wonder to behold how ſoone they paſſed. For with<g ref="char:EOLhyphen"/>in one halfe houre they were quickely embattelled neare vnto his Maieſty, and drawne vp ſo formally, that the King commended both the Officers and the Souldiers, the one for their martiall knowledge, the other for their ſubmiſſion and readineſſe.</p>
+            <p>By that time all was done, the Sea returned, and the floud came in apace; ſo that his Maieſty had the
+<pb n="6" facs="tcp:173394:5"/>
+               <!-- PDF PAGE 47 -->Sea on his right hand, and this paſſage behind him, wherby there was now no retiring, &amp; the enemy muſt either fight, or yeeld; which when the King vnder<g ref="char:EOLhyphen"/>ſtood, it is rather to be admired, then commended with what courage and direction he proceeded: For when he ſaw the paſſages, ouer which his foot came, being fiue hundred paces broad, all couered with water, and apprehended the toyle and labour they endured, being, as the Prouerb is, dropping dry, and weary, and wet in their Stations, he roade in amongſt them to comfort them. When they againe recollected themſelues to caſt vp the Kings accounts of his watchings all night, of his weariſornneſſe, and trauell, of the danger, in which hee hazarded his perſon, and of the example, which ſo many Princes and Nobles gaue them, they quickely recomforted themſelues, and aſſured their Captaines, they would liue and die with their King.</p>
+            <p>Whereupon his Maieſtie by breake of the day marſhalled his army in good order, and concluded to fight, keeping the fields directly, which led to the Croſſe of <hi>Vie,</hi> diſtant, or remote from Saint <hi>Giles</hi> by one arme of the ſea, which was now vnpaſſable. The enemy all this while was acquainted with what was done; and although they ſeemed much danted and appalled at the Kings approach in ſuch a maner, and knew apparantly, that his anger was ſo much exaſpe<g ref="char:EOLhyphen"/>rated againſt them, that he determined their deſtru<g ref="char:EOLhyphen"/>ction; yet did they make good ſemblance, and reaſo<g ref="char:EOLhyphen"/>nable expoſition. For <hi>Monſieur de Soubize,</hi> and his valiant Lieutenant omitted nothing, wherein the office of a Commaunder was to be ſhewne, and the ſeruice of a ſouldier employed.</p>
+            <p>
+               <pb n="7" facs="tcp:173394:5"/>
+               <!-- PDF PAGE 47 -->
+But all was in vaine: For when the time came of their ioyning and charging together, which was cloſe to the paſſage directing to Saint <hi>Giles,</hi> the king approched with that fury, and the Princes followed with ſuch willingneſſe, that at the very firſt ſhocke, and puſh of pike, they began to ſtagger, which was quickly entertained by his Maieſtie, and ſo both horſe and foote poured many volleys of ſhort among them amaine, and neuer left, till their foote were in a manner defeated: for the moſt part of their horſe perceiuing the impoſſibility of recouering the day, left the foote, and thought to retire to <hi>Rochell;</hi> which when the other companies, not yet fought withall, perceiued; they alſo made meanes to eſcape: but the ſea preuented their haſtineſſe, being yet too low, whereby his Maieſties forces followed them all ouer the ſtrands, and had a fearefull execution, when they were thus put to rout. For although many of them ſeeing this extremitie threw downe their armes, and ſubmitted to mercy, &amp; as many mingled themſelues with the kings forces by way of acknowledging his ſoueraignty: yet were there ſlaine out-right 500. and diuers hundreds flying into the Marſhes and villages were ſoone put to the ſword by the ſouldiers and peaſants.</p>
+            <p>There were alſo taken priſoners a thouſand, with<g ref="char:EOLhyphen"/>all the Maſters of the campe, Captains and Officers, many Colours or Enſignes ſurpriſed, their Canon was violently ſeized on, three peeces of braſſe, and foure of iron, their baggage and carriages were in<g ref="char:EOLhyphen"/>tercepted; and in a word all that they had was ſpoy<g ref="char:EOLhyphen"/>led, diſordered, and ouerthrowne: yea Monſieur
+<pb n="8" facs="tcp:173394:6"/>
+               <!-- PDF PAGE 48 -->
+               <hi>Soubize</hi> himſelfe came into the hands of the Count <hi>de la Roch-foucalt,</hi> but eſcaped vpon a little nagge with much adoe with a 120. horſe onely, who came to <hi>Rochell,</hi> as ſorrowfull meſſengers of this lamenta<g ref="char:EOLhyphen"/>ble defeat, but they acquainted with the miſeries, and accidents of Fortune, and prepared to endure the ſtripes of affliction, wrapped vp all together in the boſome of ſorrow, and put into the Catalogue of former loſſes, and Gods indignation, who in his due time would make an end of their griefes, and ſend them no doubt the comfort of reconciliation with their Prince and Gouernour.</p>
+            <p>When the King had thus preuailed the ſame day or if you will the ſame night he logded at <hi>Aſpremont,</hi> whither one repaired to aduertiſe him, that vpon the diſcouery of the enemies horſes about the Foord of the Marſhes; he had ſent fifty horſe or Carbines to keepe them play, amongſt whom twelue aduan<g ref="char:EOLhyphen"/>ced ſo forward, being attended with the light-horſe, and followed with other men of armes, and all vp<g ref="char:EOLhyphen"/>pon the Bridle, that comming to an encounter, ten of their enemies were taken, and the reſt attempting to ſaue themſelues by flight, were ouertaken by the Peſants, and ſlaine. This newes brought with it a kinde of ſecurity, ſo that his Maieſty might now take his reſt with a little more quietnes, and the ſoul<g ref="char:EOLhyphen"/>diers haue the better refreſhing, conſidering there re<g ref="char:EOLhyphen"/>mained no apparent enemy to annoy them; and if any Alarums chaunced, they might quickely bee ac<g ref="char:EOLhyphen"/>commodated, and freſh skouts, and <hi>per dues</hi> ſet a<g ref="char:EOLhyphen"/>broad, the ouer-wearied might the better take their repoſe.</p>
+            <p>
+               <pb n="9" facs="tcp:173394:6"/>
+               <!-- PDF PAGE 48 -->
+While the King refreſhed his Army and him<g ref="char:EOLhyphen"/>ſelfe at <hi>Aſpremont,</hi> he called a Councell of warre to determine his proceedings; and becauſe he percei<g ref="char:EOLhyphen"/>ued the buſineſſe of <hi>Rochel</hi> to be dangerous and diffi<g ref="char:EOLhyphen"/>cult, he now deſiſted from ſo much as a conference concerning it, and onely went about the reducing of this Iland of <hi>Rye</hi> to his obedience: whereupon he ſent the Count <hi>de la Roche-foucalt,</hi> to beſiege the Ca<g ref="char:EOLhyphen"/>ſtell of <hi>Chaume,</hi> or at leaſt to ſurprize it by Battery or otherwiſe: he tooke with him three thouſand ſoul<g ref="char:EOLhyphen"/>diers, and made his other prouiſion ſutable to ſuch a buſines: the Caſtle it ſelfe was ſtrong, well furniſhed with ſouldiers, and now the better prepared, becauſe of them which eſcaped in the laſt defeate, &amp; quartred themſelues heere round about: yet nothing at this time preuayled againſt the Kings forces. For they gaue ſo hot an aſſault, and ſeconded one another in ſuch a manner, that they not onely ſeemed more then they were, but encouraged one another to the preuayling: ſo that though the enemy made for the time equall oppoſition, and might haue defended themſelues, if they had not beene thus terrified, and examinated: yet at laſt in the middeſt of the fight it was taken about the eighteenth of Aprill, a hundred and fifty men ſlaine, and foure hundred ſurprized as priſoners, of thoſe which called themſelues, and made, as it were, a new head to intercept the battery, and preuent, as farre as they could, the expugna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>While this was doing againſt <hi>Chalme,</hi> the Lord <hi>de Buyers</hi> Lieutenant of the foreſaid Count vnder<g ref="char:EOLhyphen"/>ſtanding that Monſieur <hi>de Soubize</hi> was returned to<g ref="char:EOLhyphen"/>ward
+<pb n="10" facs="tcp:173394:7"/>
+               <!-- PDF PAGE 49 -->the Iland with the troopes, that had eſcaped with him, made vp againſt him, and charged him on<g ref="char:EOLhyphen"/>ly with thirty of the chiefeſt Gentlemen, who vpon their ſhrinking backe, as miſtruſting the kings forces to be neerer then they were, tooke thirty of <hi>Soubizes</hi> company priſoners, and rerurned to the king with the relation of the matter, who next day being the nineteenth of Aprill drew out all his army moſt Princely equipped and furniſhed, gloriouſly to be<g ref="char:EOLhyphen"/>hold, and well marſhalled for any enterpriſe, and this he did in the ſight of <hi>Soubize,</hi> who had retired him<g ref="char:EOLhyphen"/>ſelfe to a place of ſecurity, by reaſon of the ſeas com<g ref="char:EOLhyphen"/>ming in, ſo that for the time it was vnacceſſable: and for the time the king ment onely to ſhew his great<g ref="char:EOLhyphen"/>neſſe, and ſtrike as it were a terror vpon them, that they might remember themſelues, and returne to his obedience.</p>
+            <p>This done, his Maieſty reſolued to march to <hi>Royan</hi> and withall expedition to beſiege it: for ſeeing he was abroad, he would now doe ſome thing worthy of his labour, paines, preſence, trauel, and the endurances of his army which by this time increaſed, and was great and well appointed: for there accompanied him ma<g ref="char:EOLhyphen"/>ny Princes and noble Lords: by name the Prince of <hi>Conde,</hi> the Count <hi>Soiſons:</hi> my Lord of <hi>Vendoſme:</hi> the grand <hi>Prior,</hi> Duke <hi>de Fronfac,</hi> Duke <hi>de Retz,</hi> my Lords the Marſhals of <hi>Vitry,</hi> and of <hi>Praſluin,</hi> Mon<g ref="char:EOLhyphen"/>ſieur <hi>de Scomberg,</hi> the Marqueſſe of <hi>Courtenan,</hi> the Marqueſſe of <hi>Neſſe,</hi> with many other Lords, and Gentlemen of qualitie, who had not onely done their deuoire in this iourny, but were ready to ſpend their liues for his Maieſtie vpon any occaſion.</p>
+         </div>
+         <div type="license">
+            <p>
+               <pb facs="tcp:173394:7"/>
+               <!-- PDF PAGE 49 -->
+               <hi>FRedericke Morel,</hi> the Kings ordinary Printer hath authority from his Maieſty to print this true Relation, which was ſent from the King himſelfe: with a prohibiti<g ref="char:EOLhyphen"/>on to all other Printers, neyther to print this, nor things of the like nature, without licence, vpon paine of forfei<g ref="char:EOLhyphen"/>ting a hundred pound <hi>Paris,</hi> and corporall puniſhment if it be proued, and he conuicted.</p>
+            <closer>
+               <dateline>Publiſhed and done <date>this 21. of Aprill 1622. Stylo nouo.</date> 
+               </dateline>
+               <signed>Signed <hi>Dr. Bailleul.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
